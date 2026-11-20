@@ -1,0 +1,1 @@
+DicomData.index({"parts": ["parte_001.js", "parte_002.js", "parte_003.js", "parte_004.js", "parte_005.js", "parte_006.js", "parte_007.js", "parte_008.js", "parte_009.js", "parte_010.js", "parte_011.js", "parte_012.js", "parte_013.js"], "files": 611, "bytes": 40552528, "generado": "2026-11-19 23:36"});
